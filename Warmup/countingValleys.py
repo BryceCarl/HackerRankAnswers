@@ -16,4 +16,4 @@ import sys
 #
 
 def countingValleys(steps, path):
-    
+    return 0
